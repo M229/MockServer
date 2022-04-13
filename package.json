@@ -12,5 +12,15 @@
   },
   "devDependencies": {
     "@ui5/cli": "^2.0.0"
-  }
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/M229/MockServer.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/M229/MockServer/issues"
+  },
+  "homepage": "https://github.com/M229/MockServer#readme"
 }

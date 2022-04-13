@@ -1,8 +1,5 @@
-specVersion: '2.3'
+specVersion: '0.1'
 metadata:
-  name: "sap.ui.core.tutorial.mockserver.01"
+  name: MockserverTutorial
 type: application
-resources:
-  configuration:
-    paths:
-      webapp: .
+
